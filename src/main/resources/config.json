@@ -1,0 +1,91 @@
+{
+  "0": {
+    "items": [
+      {"slot": 0, "material": "WOOD_SWORD"},
+      {"slot": 36, "material": "LEATHER_BOOTS"},
+      {"slot": 37, "material": "LEATHER_LEGGINGS"},
+      {"slot": 38, "material": "LEATHER_CHESTPLATE"}
+    ]
+  },
+  "1": {
+    "items": [
+      {"slot": 0, "material": "STONE_PICKAXE"},
+      {"slot": 36, "material": "LEATHER_BOOTS"},
+      {"slot": 38, "material": "LEATHER_CHESTPLATE"},
+      {"slot": 39, "material": "CHAINMAIL_HELMET"}
+    ]
+  },
+  "2": {
+    "items": [
+      {"slot": 0, "material": "STONE_SWORD"},
+      {"slot": 36, "material": "LEATHER_BOOTS"},
+      {"slot": 38, "material": "LEATHER_CHESTPLATE"},
+      {"slot": 39, "material": "CHAINMAIL_HELMET"}
+    ]
+  },
+  "3": {
+    "items": [
+      {"slot": 0, "material": "GOLD_AXE"},
+      {"slot": 36, "material": "LEATHER_BOOTS"},
+      {"slot": 37, "material": "CHAINMAIL_LEGGINGS"},
+      {"slot": 38, "material": "LEATHER_CHESTPLATE"},
+      {"slot": 39, "material": "CHAINMAIL_HELMET"}
+    ]
+  },
+  "4": {
+    "items": [
+      {"slot": 0, "material": "GOLD_SWORD"},
+      {"slot": 1, "material": "GOLDEN_APPLE"},
+      {"slot": 36, "material": "GOLD_BOOTS"},
+      {"slot": 37, "material": "CHAINMAIL_LEGGINGS"},
+      {"slot": 38, "material": "GOLD_CHESTPLATE"},
+      {"slot": 39, "material": "CHAINMAIL_HELMET"}
+    ]
+  },
+  "5": {
+    "items": [
+      {"slot": 0, "material": "IRON_AXE"},
+      {"slot": 36, "material": "GOLD_BOOTS"},
+      {"slot": 37, "material": "CHAINMAIL_LEGGINGS"},
+      {"slot": 38, "material": "GOLD_CHESTPLATE"},
+      {"slot": 39, "material": "CHAINMAIL_HELMET"}
+    ]
+  },
+  "6": {
+    "items": [
+      {"slot": 0, "material": "IRON_SWORD"},
+      {"slot": 36, "material": "IRON_BOOTS"},
+      {"slot": 37, "material": "CHAINMAIL_LEGGINGS"},
+      {"slot": 38, "material": "GOLD_CHESTPLATE"},
+      {"slot": 39, "material": "CHAINMAIL_HELMET"}
+    ]
+  },
+  "7": {
+    "items": [
+      {"slot": 0, "material": "DIAMOND_PICKAXE"},
+      {"slot": 1, "material": "GOLDEN_APPLE"},
+      {"slot": 36, "material": "IRON_BOOTS"},
+      {"slot": 37, "material": "CHAINMAIL_LEGGINGS"},
+      {"slot": 38, "material": "GOLD_CHESTPLATE"},
+      {"slot": 39, "material": "IRON_HELMET"}
+    ]
+  },
+  "8": {
+    "items": [
+      {"slot": 0, "material": "DIAMOND_AXE"},
+      {"slot": 36, "material": "IRON_BOOTS"},
+      {"slot": 37, "material": "IRON_LEGGINGS"},
+      {"slot": 38, "material": "GOLD_CHESTPLATE"},
+      {"slot": 39, "material": "IRON_HELMET"}
+    ]
+  },
+  "9": {
+    "items": [
+      {"slot": 0, "material": "DIAMOND_SWORD"},
+      {"slot": 36, "material": "DIAMOND_BOOTS"},
+      {"slot": 37, "material": "IRON_LEGGINGS"},
+      {"slot": 38, "material": "DIAMOND_CHESTPLATE"},
+      {"slot": 39, "material": "IRON_HELMET"}
+    ]
+  }
+}

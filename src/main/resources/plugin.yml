@@ -1,0 +1,4 @@
+name: GunGameV2
+version: '${1.0-TEST}'
+author: MrBlock
+main: mrblock.gungamev2.GunGameV2
